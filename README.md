@@ -9,3 +9,7 @@ Compare implementation of BBS signature scheme of [mattrglobal](https://github.c
 ## Run
 
 `tsc benches/bench.ts --esModuleInterop && node benches/bench.js`
+
+## TODO
+
+- [ ] Use more efficient optional node / web assembly dependency
